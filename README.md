@@ -1,1 +1,1 @@
-# go-cipher-decoder
+# cipher-decoder
